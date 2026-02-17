@@ -1,0 +1,5 @@
+{
+  "name": "BrokerData Verifier",
+  "description": "An automated Data Audit Agent that verifies online broker information from web content against official sources using Gemini AI.",
+  "requestFramePermissions": []
+}
